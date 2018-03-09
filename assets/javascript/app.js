@@ -59,8 +59,7 @@ function startGame(){
         $(".timer").html("<b>" + timeLeft + " Seconds left</b>");
         console.log(timeLeft);
       }
-    }
-   var tid = setInterval(less, 1000);
+    }   var tid = setInterval(less, 1000);
   }
 
   function nextQuestion(){

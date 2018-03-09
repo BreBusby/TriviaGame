@@ -1,5 +1,16 @@
 body {
-    background-image: url("assets/images/mavs.png");
+  font-size: 18px;
+  line-height: 27px;
+  background-image: url("assets/images/flag.jpg");
+  background-repeat: no-repeat;
+}
+
+header {
+  background: whitesmoke;
+}
+
+h1,h2 {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
 
